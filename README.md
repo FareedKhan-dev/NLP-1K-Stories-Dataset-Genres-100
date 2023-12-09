@@ -1,7 +1,7 @@
 # NLP-Stories-Dataset-1K-Genres-100
 This repository hosts a diverse NLP dataset comprising 1,000 stories spanning 100 genres for comprehensive language understanding tasks.
 
-[![HuggingFace Space](https://img.shields.io/badge/🤗-HuggingFace%20Space-cyan.svg)]([https://huggingface.co/spaces/IDEA-Research/Grounded-SAM](https://huggingface.co/datasets/FareedKhan/1k_stories_100_genre))
+[![HuggingFace Space](https://img.shields.io/badge/🤗-HuggingFace%20Dataset-cyan.svg)]([https://huggingface.co/spaces/IDEA-Research/Grounded-SAM](https://huggingface.co/datasets/FareedKhan/1k_stories_100_genre))
 
 license: cc-by-2.0 (Personal or commercial use but give attribution)
 
